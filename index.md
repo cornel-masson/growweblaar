@@ -1,4 +1,9 @@
-# Cornel's Test Website
+# TITLE: Cornel's Test Website
 
-## Welcome to my test website!
+## Header 2: Welcome to my test website!
+
+And here's some text to go with it:
+- This is a list item
+- This is another list item
+
 
